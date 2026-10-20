@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="302" viewBox="0 0 880 302" role="img" aria-label="bill.me.at at a glance: Numbers that never skip, Whole-cent amounts, Quotes and series, Invoices, nothing else">
+<rect x="0.5" y="0.5" width="879" height="301" rx="12" fill="#ffffff" stroke="#e5e5e5"/>
+<rect x="24" y="24" width="196" height="254" rx="10" fill="#fafafa" stroke="#e5e5e5"/>
+<text x="44" y="60" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#a3a3a3">01</text>
+<line x1="72" y1="56" x2="200" y2="56" stroke="#d4d4d4" stroke-width="1"/>
+<text x="44" y="98" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" fill="#0a0a0a" font-weight="600"><tspan x="44" dy="0">Numbers that</tspan><tspan x="44" dy="22">never skip</tspan></text>
+<text x="44" y="148" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" fill="#525252"><tspan x="44" dy="0">The number is</tspan><tspan x="44" dy="21">assigned at send in a</tspan><tspan x="44" dy="21">row-locked</tspan><tspan x="44" dy="21">transaction. A voided</tspan><tspan x="44" dy="21">invoice keeps its</tspan><tspan x="44" dy="21">slot.</tspan></text>
+<rect x="236" y="24" width="196" height="254" rx="10" fill="#fafafa" stroke="#e5e5e5"/>
+<text x="256" y="60" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#a3a3a3">02</text>
+<line x1="284" y1="56" x2="412" y2="56" stroke="#d4d4d4" stroke-width="1"/>
+<text x="256" y="98" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" fill="#0a0a0a" font-weight="600"><tspan x="256" dy="0">Whole-cent</tspan><tspan x="256" dy="22">amounts</tspan></text>
+<text x="256" y="148" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" fill="#525252"><tspan x="256" dy="0">Every amount is an</tspan><tspan x="256" dy="21">integer in minor</tspan><tspan x="256" dy="21">units, rounded at one</tspan><tspan x="256" dy="21">known step, so totals</tspan><tspan x="256" dy="21">never drift.</tspan></text>
+<rect x="448" y="24" width="196" height="254" rx="10" fill="#fafafa" stroke="#e5e5e5"/>
+<text x="468" y="60" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#a3a3a3">03</text>
+<line x1="496" y1="56" x2="624" y2="56" stroke="#d4d4d4" stroke-width="1"/>
+<text x="468" y="98" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" fill="#0a0a0a" font-weight="600"><tspan x="468" dy="0">Quotes and</tspan><tspan x="468" dy="22">series</tspan></text>
+<text x="468" y="148" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" fill="#525252"><tspan x="468" dy="0">An accepted quote</tspan><tspan x="468" dy="21">becomes exactly one</tspan><tspan x="468" dy="21">draft. A recurring</tspan><tspan x="468" dy="21">series opens a draft</tspan><tspan x="468" dy="21">each time it fires.</tspan></text>
+<rect x="660" y="24" width="196" height="254" rx="10" fill="#fafafa" stroke="#e5e5e5"/>
+<text x="680" y="60" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#a3a3a3">04</text>
+<line x1="708" y1="56" x2="836" y2="56" stroke="#d4d4d4" stroke-width="1"/>
+<text x="680" y="98" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" fill="#0a0a0a" font-weight="600"><tspan x="680" dy="0">Invoices,</tspan><tspan x="680" dy="22">nothing else</tspan></text>
+<text x="680" y="148" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" fill="#525252"><tspan x="680" dy="0">No ledger, no chart</tspan><tspan x="680" dy="21">of accounts, no</tspan><tspan x="680" dy="21">accounting suite.</tspan><tspan x="680" dy="21">Clients, drafts, tax</tspan><tspan x="680" dy="21">lines, payment links.</tspan></text>
+</svg>
